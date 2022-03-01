@@ -1,5 +1,5 @@
 public class Suma {
-    private int n1, n2, acumulado = 0;
+    private int acumulado = 0;
 
     public int suma2num(int n1, int n2){
         return n1+n2;
