@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Resultado resta acumulada: " + Resta.restaAcumulada(Resta.resta2num(num1, num2)));
         System.out.println("Resultado resta acumulada: " + Resta.restaAcumulada(Resta.resta2num(num1, num2)));
         System.out.println("Resultado resta acumulada: " + Resta.restaAcumulada(7));
+        System.out.println("\n\n");
     }
 }
